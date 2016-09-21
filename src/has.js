@@ -1,0 +1,1 @@
+var has = require("has");

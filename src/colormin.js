@@ -1,0 +1,1 @@
+var colormin = require("colormin");

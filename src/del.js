@@ -1,0 +1,1 @@
+var del = require("del");

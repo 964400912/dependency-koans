@@ -1,0 +1,1 @@
+var regenerate = require("regenerate");

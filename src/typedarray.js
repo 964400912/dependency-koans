@@ -1,0 +1,1 @@
+var typedarray = require("typedarray");

@@ -1,0 +1,1 @@
+var sntp = require("sntp");

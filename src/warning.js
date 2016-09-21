@@ -1,0 +1,1 @@
+var warning = require("warning");

@@ -1,0 +1,1 @@
+var stable = require("stable");

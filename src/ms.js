@@ -1,0 +1,1 @@
+var ms = require("ms");

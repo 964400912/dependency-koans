@@ -1,0 +1,1 @@
+var verror = require("verror");

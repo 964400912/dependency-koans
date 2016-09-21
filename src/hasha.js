@@ -1,0 +1,1 @@
+var hasha = require("hasha");

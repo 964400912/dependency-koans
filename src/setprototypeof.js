@@ -1,0 +1,1 @@
+var setprototypeof = require("setprototypeof");

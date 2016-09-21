@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd node_modules
+for M in *; do echo $M; if [ ! -f ../src/$M.js ]; then echo Missing $M.js; fi ; done

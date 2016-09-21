@@ -1,0 +1,1 @@
+var negotiator = require("negotiator");

@@ -1,0 +1,1 @@
+var deprecated = require("deprecated");

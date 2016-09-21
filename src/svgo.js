@@ -1,0 +1,1 @@
+var svgo = require("svgo");

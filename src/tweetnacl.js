@@ -1,0 +1,1 @@
+var tweetnacl = require("tweetnacl");

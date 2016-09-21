@@ -1,0 +1,1 @@
+var amdefine = require("amdefine");

@@ -1,0 +1,1 @@
+var nan = require("nan");

@@ -1,0 +1,1 @@
+var degenerator = require("degenerator");

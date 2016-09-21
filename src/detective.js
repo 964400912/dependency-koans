@@ -1,0 +1,1 @@
+var detective = require("detective");

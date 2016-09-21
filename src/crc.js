@@ -1,0 +1,1 @@
+var crc = require("crc");

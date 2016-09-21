@@ -1,0 +1,1 @@
+var escope = require("escope");

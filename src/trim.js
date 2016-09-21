@@ -1,0 +1,1 @@
+var trim = require("trim");
