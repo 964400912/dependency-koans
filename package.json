@@ -745,6 +745,7 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.clone": "^4.5.0",
     "lodash.clonedeep": "^4.5.0",
+    "mongoose": "^4.6.1",
     "superagent": "^2.3.0"
   }
 }
